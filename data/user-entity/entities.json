@@ -1,0 +1,111 @@
+[
+    {
+        "id": "0439cdc6-fcd8-4e21-b70a-bc99a0c094d1",
+        "user": null,
+        "name": "Migra udruga gradjana",
+        "description": "Udruga gradjana",
+        "activityArea": {
+            "id": "0c26ae37-a636-4b38-8b89-dc9a59bf26c7",
+            "name": "Consulting",
+            "description": "Test activity area consulting",
+            "rate": 1
+        },
+        "organizationType": null,
+        "address": {
+            "street": "Strossmayerova",
+            "houseNr": "101",
+            "postCode": "31540",
+            "district": null,
+            "city": "Mioljac",
+            "country": "Hrvatska",
+            "consent": null
+        },
+        "phone": {
+            "number": "015124744461",
+            "type": "private",
+            "consent": null
+        },
+        "email": {
+            "address": "migra@gmail.com",
+            "type": "private",
+            "consent": null
+        },
+        "shiftTemplates": null
+    },
+    {
+        "id": "12ec3424-a035-4694-b7d9-b111b3d5ee4b",
+        "user": null,
+        "name": "Evia Consulting GmbH",
+        "description": "IT Consulting",
+        "activityArea": {
+            "id": "0c26ae37-a636-4b38-8b89-dc9a59bf26c7",
+            "name": "Consulting",
+            "description": "Test activity area consulting",
+            "rate": 1
+        },
+        "organizationType": {
+            "id": "e9efa3ca-1894-4eba-870d-2a8ad66cd15f",
+            "name": "Company",
+            "description": "Test organizational type Company",
+            "rate": 1
+        },
+        "address": {
+            "street": "Strossmayerova",
+            "houseNr": "101",
+            "postCode": "31540",
+            "district": null,
+            "city": "Mioljac",
+            "country": "Hrvatska",
+            "consent": null
+        },
+        "phone": {
+            "number": "015124744461",
+            "type": "private",
+            "consent": null
+        },
+        "email": {
+            "address": "migra@gmail.com",
+            "type": "private",
+            "consent": null
+        },
+        "shiftTemplates": null
+    },
+    {
+        "id": "7a8c2fd1-c2f7-42ef-83b6-01a2556acf4d",
+        "user": null,
+        "name": "Markanov raspored",
+        "description": "Personal",
+        "activityArea": {
+            "id": "07554f8d-428b-4072-98c7-c69460fd77c9",
+            "name": "Public services",
+            "description": "Test activity area public services",
+            "rate": 1
+        },
+        "organizationType": {
+            "id": "72d9b350-1fe5-4dfa-8799-da04ccd5856f",
+            "name": "Private perosn",
+            "description": "Test organizational type private person",
+            "rate": 1
+        },
+        "address": {
+            "street": "Strossmayerova",
+            "houseNr": "101",
+            "postCode": "31540",
+            "district": null,
+            "city": "Mioljac",
+            "country": "Hrvatska",
+            "consent": null
+        },
+        "phone": {
+            "number": "015124744461",
+            "type": "private",
+            "consent": null
+        },
+        "email": {
+            "address": "migra@gmail.com",
+            "type": "private",
+            "consent": null
+        },
+        "shiftTemplates": null
+    }
+]
