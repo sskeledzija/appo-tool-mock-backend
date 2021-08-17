@@ -39,6 +39,11 @@ app.post('/login', (request, response) => {
   return response.send(loginData);
 })
 
+app.post('/login/register', (request, response) => {
+  
+  return response.send(request.body);
+})
+
 app.get('/users/:userid/subscriptions', (request, response) => {
   let subscriptions = loadJSONData('./data/user/subscriptions.json');
   return response.send(subscriptions);
