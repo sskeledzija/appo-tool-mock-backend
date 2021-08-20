@@ -39,6 +39,11 @@ app.post('/login', (request, response) => {
   return response.send(loginData);
 })
 
+app.post('/login/token', (request, response) => {
+  let loginData = loadJSONData('./data/user/login.json');
+  return response.send(loginData);
+})
+
 app.post('/login/register', (request, response) => {
   
   return response.send(request.body);
